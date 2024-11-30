@@ -92,7 +92,7 @@ PC用のスタイル
     display: none;
     z-index: 100;
   }
-  
+
   /* ×ボタン */
   #close {
     position: absolute;
